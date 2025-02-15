@@ -15,7 +15,7 @@
 package cmd
 
 import (
-	"github.com/keycloak/kcinit/console"
+	"github.com/ftntming/kcinit/console"
 
 	"github.com/spf13/cobra"
 )

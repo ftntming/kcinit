@@ -4,8 +4,8 @@ package cmd
 
 import (
 	"github.com/spf13/viper"
-	"github.com/keycloak/kcinit/rest"
-    "github.com/keycloak/kcinit/console"
+	"github.com/ftntming/kcinit/rest"
+    "github.com/ftntming/kcinit/console"
     "os"
     "net/url"
 )

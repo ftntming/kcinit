@@ -18,7 +18,7 @@ import (
 	"github.com/spf13/cobra"
 	"time"
 	"encoding/json"
-	"github.com/keycloak/kcinit/console"
+	"github.com/ftntming/kcinit/console"
 	"io/ioutil"
     "os"
     "errors"

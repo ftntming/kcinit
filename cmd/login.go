@@ -16,12 +16,12 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-    "github.com/keycloak/kcinit/console"
+    "github.com/ftntming/kcinit/console"
     "os"
     "strings"
     "unicode"
     "net/url"
-    "github.com/keycloak/kcinit/rest"
+    "github.com/ftntming/kcinit/rest"
     "net"
     "fmt"
     "net/http"

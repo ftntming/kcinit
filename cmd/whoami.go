@@ -16,7 +16,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-    "github.com/keycloak/kcinit/console"
+    "github.com/ftntming/kcinit/console"
     "github.com/spf13/viper"
     "os"
     "fmt"

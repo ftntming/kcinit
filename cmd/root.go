@@ -22,7 +22,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
     "regexp"
-    "github.com/keycloak/kcinit/console"
+    "github.com/ftntming/kcinit/console"
 )
 
 // rootCmd represents the base command when called without any subcommands
